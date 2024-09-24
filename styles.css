@@ -1,0 +1,40 @@
+html {
+    background-color:BurlyWood;
+}
+h1 {
+  text-align: center;
+  color: black;
+  font-family: verdana;
+  font-size: 300%;
+}
+h2 {
+  color: black;
+  font-family: verdana;
+  font-size: 200%;
+  text-align: center;
+}
+p {
+  color: black;
+  font-family: courier;
+  font-size: 200%;
+  text-align: center;
+}
+ul {
+   color: black;
+  font-family: courier;
+  font-size: 200%;
+  text-align: ;
+}
+dl {
+   color: black;
+  font-family: courier;
+  font-size: 200%;
+  text-align: ;
+}
+img {
+  border-radius: 8px;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
